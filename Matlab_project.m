@@ -5,6 +5,8 @@
 % all requirements function and files are in Matalab Project file
 clc
 clear 
+
+%bla bla
 close all
 % Loading and merging data
  load('N1_15_04_2017_11_15_45_0000.mat');
